@@ -20,8 +20,6 @@ url: "https://nips-2018-oss.github.io"
 
 # Build settings
 markdown: kramdown
-plugins:
-  - jekyll-feed
 
 includes:
   - texts
@@ -31,6 +29,7 @@ paginate_path: "/page/:num/"
 
 plugins:
   - bourbon
+  - jekyll-feed
   - jekyll-paginate
 
 # Sass configuration
