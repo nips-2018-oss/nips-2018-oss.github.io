@@ -14,7 +14,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: MLOSS 2018
-description: ""
+description: "NIPS workshop"
 baseurl: ""
 url: "https://nips-2018-oss.github.io"
 
