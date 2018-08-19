@@ -41,3 +41,8 @@ sass:
 
 exclude:
   - LICENSE.simplest
+
+og_locale: en-US
+share_image: /assets/images/workshop.jpeg
+twitter_card: summary_large_image
+twitter_site: "@ShogunML"
