@@ -38,9 +38,3 @@ plugins:
 sass:
   sass_dir: assets/scss
   style: compressed # expanded
-
-navbar:
-  - slug : about
-    title: About
-  - slug : blog
-    title: Blog
