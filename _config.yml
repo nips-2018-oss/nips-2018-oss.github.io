@@ -18,6 +18,8 @@ description: ""
 baseurl: ""
 url: "https://nips-2018-oss.github.io"
 
+google_analytics: 'UA-124192947-1'
+
 # Build settings
 markdown: kramdown
 
