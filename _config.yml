@@ -38,3 +38,6 @@ plugins:
 sass:
   sass_dir: assets/scss
   style: compressed # expanded
+
+exclude:
+  - LICENSE.simplest
