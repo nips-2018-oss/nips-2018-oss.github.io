@@ -8,6 +8,12 @@
   {% if page.title == "Main" %}
       {% capture page_title %}
         {{ site.title }}
+      {% endcapture %}
+  {% endif %}
+
+  {% if page.title == "Blog" %}
+      {% capture page_title %}
+        {{ site.title }}
         {%if paginator and paginator.page != 1 %} - Page {{ paginator.page }}{% endif %}
       {% endcapture %}
   {% else %}
