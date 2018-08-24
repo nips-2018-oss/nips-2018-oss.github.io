@@ -5,16 +5,16 @@
   <meta name="viewport" content="width=device-width, initial-scale=1">
 
   {% assign page_title = '' %}
-  {% if page.title == "Main" %}
-      {% capture page_title %}
-        {{ site.title }}
-      {% endcapture %}
-  {% endif %}
+
 
   {% if page.title == "Blog" %}
       {% capture page_title %}
-        {{ site.title }}
+      {{ page.title }} | {{ site.title }}
         {%if paginator and paginator.page != 1 %} - Page {{ paginator.page }}{% endif %}
+      {% endcapture %}
+  {% elsif page.title == "Main" %}
+      {% capture page_title %}
+        {{ site.title }}
       {% endcapture %}
   {% else %}
       {% capture page_title %}
