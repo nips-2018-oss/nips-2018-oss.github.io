@@ -55,8 +55,8 @@ hr {
 }
 
 .link {
-  display: inline-block;
-  padding-bottom: .08em;
+  display: inline;
+  padding-bottom: .06em;
   border-bottom: 2px solid $light-gray-color;
 
   &:hover,
@@ -87,7 +87,8 @@ hr {
 }
 
 .logo {
-  float: left;
+  display: block;
+  text-align: center;
   margin: 0 0 1em 0;
   cursor: pointer;
   letter-spacing: 0.8px;
@@ -101,7 +102,8 @@ hr {
 }
 
 .navbar {
-  float: right;
+  display: block;
+  text-align: center;
   margin: 0;
   position: relative;
   padding: 0;
