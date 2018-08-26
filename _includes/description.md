@@ -18,8 +18,9 @@ TBA
 
 This workshop is organized by a team of:
 
-- Heiko Strathmann
-- Viktor Gal
-- Ryan R. Curtin
-- Antti Honkela
-- Cheng Soon Ong
+- Heiko Strathmann, UCL / ETH Zürich
+- Viktor Gal, ETH Zürich
+- Ryan R. Curtin, Symantec
+- Antti Honkela, University of Helsinki
+- Cheng Soon Ong, CSIRO's Data61
+- Sergey Lisitsyn, Yandex
