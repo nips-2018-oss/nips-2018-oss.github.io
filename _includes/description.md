@@ -12,7 +12,8 @@ TBA
 
 ### Important dates
 
-TBA
+- *Submission deadline:* October 13, 2018, 11:59 pm UTC
+- *Notification of acceptance:* TBA
 
 ### Organizers
 
