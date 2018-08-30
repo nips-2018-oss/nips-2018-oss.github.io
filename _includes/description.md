@@ -21,7 +21,7 @@ This workshop is organized by a team of:
 
 - Heiko Strathmann, UCL / ETH Zürich
 - Viktor Gal, ETH Zürich
-- Ryan R. Curtin, Symantec
+- Ryan R. Curtin, RelationalAI
 - Antti Honkela, University of Helsinki
 - Cheng Soon Ong, CSIRO's Data61
 - Sergey Lisitsyn, Yandex
