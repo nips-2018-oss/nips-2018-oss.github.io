@@ -11,7 +11,8 @@ Continuing the tradition in 2018, this year’s workshop that is a mix of invite
 ### Important dates
 
 - *Submission deadline:* September 30, 2018, 11:59 pm UTC
-- *Notification of acceptance:* TBA
+- *Notification of acceptance:* October 12, 2018
+- *Workshop:* December 8, 2018 (Saturday)
 
 ### Invited speakers
 

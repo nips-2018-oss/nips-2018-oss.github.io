@@ -15,6 +15,14 @@ Possible topics include (but not exclusively):
 
 The committee will select several submitted abstracts for demos and short talks. All software presentations are required to include a live demonstration.
 
-Submission format is [NIPS'18 style pdf](https://nips.cc/Conferences/2018/PaperInformation/StyleFiles) (3 pages maximum). All submissions must include pointers to project website/community, code (GitHub, etc), where applicable. For software submissions, a link to code is mandatory. Previews of to be presented demos are not mandatory but will increase the acceptance likelihood.
+Submission format is [NIPS'18 style pdf](https://nips.cc/Conferences/2018/PaperInformation/StyleFiles) (3 pages maximum). All submissions must include pointers to project website/community, code (GitHub, etc), where applicable. For software submissions, a link to code is mandatory. Previews of to be presented demos are not mandatory but will increase the acceptance likelihood. Please submit your contributions using [OpenReview](https://openreview.net/group?id=NIPS.cc/2018/Workshop/MLOSS).
 
-Please submit your contributions using [OpenReview](https://openreview.net/group?id=NIPS.cc/2018/Workshop/MLOSS).
+### Student participant support
+
+We have a limited number of NIPS admission tickets, as well as limited funding to support participant travelling/accommodation. This support is for students who submit an abstract only. Apply [here](https://goo.gl/forms/8U9N4NXugUH69jKj2)
+
+### Important dates
+
+- Submission deadline: 30 September 2018
+- Notification of acceptance: 12 October 2018
+- Workshop date: 8 December 2018 (Saturday)
