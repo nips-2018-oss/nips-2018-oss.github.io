@@ -10,7 +10,11 @@ Continuing the tradition in 2018, this year’s workshop that is a mix of invite
 
 ### Invited speakers
 
-TBA
+The tentative list of speakers:
+- Gina Helfrich or Leah Silen (NumFOCUS), the keynote talk
+- James Hensman (GPflow)
+- Mara Averick (tidyverse)
+- Joaquin Vanschoren (openML)
 
 ### Important dates
 
