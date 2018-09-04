@@ -13,6 +13,8 @@ Possible topics include (but not exclusively):
 - Novel or improved ML packages
 - Meta projects that connect third party projects, e.g. benchmarking, workflows, etc
 
-The committee will select several submitted abstracts for demos and short talks. All software presentations are required to include a live demonstration. 
+The committee will select several submitted abstracts for demos and short talks. All software presentations are required to include a live demonstration.
 
-Submission format is NIPS'18 style pdf (3 pages maximum). All submissions must include pointers to project website/community, code (GitHub, etc), where applicable. For software submissions, a link to code is mandatory. Previews of to be presented demos are not mandatory but will increase the acceptance likelihood. Please submit your contributions at [OpenReview](https://openreview.net/group?id=NIPS.cc/2018/Workshop/MLOSS).
+Submission format is NIPS'18 style pdf (3 pages maximum). All submissions must include pointers to project website/community, code (GitHub, etc), where applicable. For software submissions, a link to code is mandatory. Previews of to be presented demos are not mandatory but will increase the acceptance likelihood.
+
+Please submit your contributions using [OpenReview](https://openreview.net/group?id=NIPS.cc/2018/Workshop/MLOSS).
