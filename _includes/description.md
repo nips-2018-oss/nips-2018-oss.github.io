@@ -8,6 +8,11 @@ Machine learning open source software (MLOSS) is one of the cornerstones of open
 
 Continuing the tradition in 2018, this year’s workshop that is a mix of invited speakers (NumFocus, tidyverse, openML, GPFlow), contributed talks/demos, and discussion/activity sessions. This year’s headline aims to give an insight of the challenges faced by projects as they seek long-term sustainability, with a particular focus on community building and preservation, and diverse teams.
 
+### Important dates
+
+- *Submission deadline:* September 30, 2018, 11:59 pm UTC
+- *Notification of acceptance:* TBA
+
 ### Invited speakers
 
 The tentative list of speakers:
@@ -15,11 +20,6 @@ The tentative list of speakers:
 - James Hensman (GPflow)
 - Mara Averick (tidyverse)
 - Joaquin Vanschoren (openML)
-
-### Important dates
-
-- *Submission deadline:* September 30, 2018, 11:59 pm UTC
-- *Notification of acceptance:* TBA
 
 ### Organizers
 
