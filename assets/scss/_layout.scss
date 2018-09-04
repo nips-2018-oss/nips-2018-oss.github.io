@@ -49,13 +49,15 @@ hr {
 .page ul {
     list-style: none;
     margin-bottom: 1em;
-    margin-left: 1em;
+    margin-left: 1.25em;
 }
 .page li::before {
-    content: "\25E6";
+    content: "\2013";
+    text-align: center;
     color: #aaa;
     display: inline-block; width: 1em;
-    margin-left: -1em;
+    margin-left: -1.25em;
+    width: 1.25em;
 }
 
 .pull-left {
