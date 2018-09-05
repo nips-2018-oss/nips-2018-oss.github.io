@@ -1,6 +1,6 @@
 ## Machine Learning Open Source Software 2018: Sustainable communities
 
-*When:* [Sat Dec 8th 08:00 AM &mdash; 06:30 PM](https://calendar.google.com/event?action=TEMPLATE&amp;tmeid=MDNnM2ljaXQzbWsxbWtlZHJhaHNxZm0yODAgNDBhZnZlM29wdHEwOTFtc2UxdnNpbDMwNjBAZw&amp;tmsrc=40afve3optq091mse1vsil3060%40group.calendar.google.com)
+*When:* [Sat Dec 8th 08:00 AM &mdash; 06:30 PM](https://calendar.google.com/event?action=TEMPLATE&amp;tmeid=MDNnM2ljaXQzbWsxbWtlZHJhaHNxZm0yODAgNDBhZnZlM29wdHEwOTFtc2UxdnNpbDMwNjBAZw&amp;tmsrc=40afve3optq091mse1vsil3060%40group.calendar.google.com), see workshop page at [nips.cc](https://nips.cc/Conferences/2018/Schedule?showEvent=10920)
 
 *Where:* [Palais des Congrès de Montréal, Montréal, Canada](https://congresmtl.com/en/)
 
