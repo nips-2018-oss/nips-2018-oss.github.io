@@ -4,7 +4,7 @@ title: FAQ
 permalink: /faq/
 ---
 
-## NIPS tickets are sold out in 11 minutes, why should I bother to send in a proposal when I cannot attend?
+## NIPS 2018 tickets are sold out in 11 minutes, why should I bother to send in a proposal when I cannot attend?
 Speakers of the conference/workshop have a separate/reserved pool of tickets. Hence, if your contribution gets accepted, you will definitely have a chance to get a ticket and attend.
 
 ## Is there any sponsorship available to attend the workshop?

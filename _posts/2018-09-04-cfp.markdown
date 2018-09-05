@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "CfP is out"
+date:   2018-09-04 12:00:00 +0300
+author: Sergey Lisitsyn
+---
+
+The [Call for Participation](/cfp) is out! We'd like to invite you to submit your papers using [the OpenReview system](https://openreview.net/group?id=NIPS.cc/2018/Workshop/MLOSS).
