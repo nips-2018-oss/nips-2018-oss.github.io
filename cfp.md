@@ -21,7 +21,7 @@ Please note that there is a separate pool of NIPS tickets for those who present 
 
 ### Student participant support
 
-We have limited funding to support participant travelling/accommodation. This support is for students who submit an abstract only. Apply [here](https://goo.gl/forms/8U9N4NXugUH69jKj2)
+We have limited funding to support participant travelling/accommodation. This support is for students who submit an abstract only. Apply [here](https://goo.gl/forms/8U9N4NXugUH69jKj2).
 
 ### Important dates
 
