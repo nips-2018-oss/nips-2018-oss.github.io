@@ -4,7 +4,7 @@ title: Call for Participation
 permalink: /cfp/
 ---
 
-The organizing committee is currently seeking abstracts for talks and demos that showcase novel and exciting Machine Leanring Open Source Software (MLOSS). The workshop is a great opportunity for you to share use-cases, development, philosophy, or other activities related to MLOSS. Smaller projects and those without a significant supporting organization are especially encouraged to participate for improved outreach and visibility.
+The organizing committee is currently seeking abstracts for talks and demos that showcase novel and exciting Machine Learning Open Source Software (MLOSS). The workshop is a great opportunity for you to share use-cases, development, philosophy, or other activities related to MLOSS. Smaller projects and those without a significant supporting organization are especially encouraged to participate for improved outreach and visibility.
 
 Possible topics include (but not exclusively):
 - Position papers for community growth/transition/diversification
