@@ -22,6 +22,15 @@ The tentative list of speakers:
 - Mara Averick (tidyverse)
 - Joaquin Vanschoren (openML)
 
+### Sponsors
+
+The workshop received financial support from:
+
+- [Google](https://www.google.com/intl/en_ru/about/)
+- [PROWLER.io](https://www.prowler.io/)
+
+We are grateful to our sponsors and will use the funding to support invited speakers and some student participants.
+
 ### Organizers
 
 This workshop is organized by a team of:
