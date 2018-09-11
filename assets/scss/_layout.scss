@@ -214,16 +214,15 @@ hr {
   color: $medium-gray-color;
   font-size: 16px;
 
-    .footer-logos {
-        display: block;
-        vertical-align: middle;
+}
 
-        .footer-logo {
-            display: inline-block;
-            opacity: 0.5;
-            max-height: 5vh;
-            margin-left: 10px;
-            margin-right: 10px;
-        }
+.footer-logos {
+    display: block;
+    .footer-logo {
+        display: inline-block;
+        opacity: 0.5;
+        max-height: 5vh;
+        margin-left: 10px;
+        margin-right: 10px;
     }
 }
