@@ -206,17 +206,24 @@ hr {
 }
 
 .site-footer {
+  border-top: 2px solid lighten($light-gray-color, 15%);
   @extend .clearfix;
 
   padding: $base-spacing 0;
+  text-align: center;
+  color: $medium-gray-color;
+  font-size: 16px;
 
-  a {
-    @extend .link;
-  }
+    .sponsor-logos {
+        display: block;
+        vertical-align: middle;
 
-  small {
-    display: block;
-    font-size: 10px;
-    color: darken($medium-gray-color, 10%);
-  }
+        .sponsor-logo {
+            display: inline-block;
+            opacity: 0.5;
+            max-height: 5vh;
+            margin-left: 10px;
+            margin-right: 10px;
+        }
+    }
 }
