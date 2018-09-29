@@ -4,6 +4,8 @@ title: Schedule
 permalink: /schedule/
 ---
 
+Saturday, December 8th 2018
+
 {:.schedule}
 |---------------------------|----------------------------------------------|-----------------------------|
 | 8:25 &ndash; 8:30 AM      | Opening remarks                              | Workshop organizers         |
