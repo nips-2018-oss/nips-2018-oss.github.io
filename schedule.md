@@ -24,4 +24,4 @@ Saturday, December 8th 2018
 | 5:00 &ndash; 5:30 PM    | Panel discussion: summary of guidelines      | TBA                         |
 | 5:30 &ndash; 5:35 PM    | Closing remarks                              | Workshop organizers         |
 
-The less detailed schedule can also be found at [NIPS website](https://nips.cc/Conferences/2018/Schedule?showEvent=10920).
+This schedule can also be found at [NIPS website](https://nips.cc/Conferences/2018/Schedule?showEvent=10920).
