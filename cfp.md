@@ -25,6 +25,6 @@ We have limited funding to support participant travelling/accommodation. This su
 
 ### Important dates
 
-- Submission deadline: 30 September 2018
-- Notification of acceptance: 12 October 2018
+- (Extended) submission deadline: 8 October 2018
+- Notification of acceptance: 21 October 2018
 - Workshop date: 8 December 2018 (Saturday)
