@@ -10,8 +10,8 @@ Saturday, December 8th 2018
 |---------------------------|----------------------------------------------|-----------------------------|
 | 8:25 &ndash; 8:30 AM      | Opening remarks                              | Workshop organizers         |
 | 8:30 &ndash; 9:00 AM      | Invited talk                                 | Gina Helfrich, [NumFOCUS](https://numfocus.org)     | 
-| 9:00 &ndash; 9:30 AM      | Invited talk                                 | Joaquin Vanschoren, [OpenML](https://www.openml.org)  |
-| 9:30 &ndash; 10:00 AM     | Invited talk                                 | Christoph Hertzberg, [Eigen3](http://eigen.tuxfamily.org) |
+| 9:00 &ndash; 9:30 AM      | Invited talk                                 | Christoph Hertzberg, [Eigen3](http://eigen.tuxfamily.org) |
+| 9:30 &ndash; 10:00 AM     | Invited talk                                 | Joaquin Vanschoren, [OpenML](https://www.openml.org)  |
 | 10:00 &ndash; 10:25 AM    | Posters spotlights                           | TBA after reviews           |
 | 10:25 AM &ndash; 11:00 PM | Discussion over morning coffee               |                             |
 | 11:00 AM &ndash; 12:00 AM | Contributed talks and demos                  | TBA after reviews           |
