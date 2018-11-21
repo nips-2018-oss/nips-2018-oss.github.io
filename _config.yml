@@ -14,10 +14,10 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: MLOSS 2018
-description: "Workshop on Machine Learning Open Source Software at NIPS 2018"
+description: "Workshop on Machine Learning Open Source Software at NeurIPS 2018"
 baseurl: ""
 url: "https://2018.mloss.org"
-keywords: "nips, 2018, montreal, mloss, machine learning, open source, oss, sklearn, tf, tensorflow, shogun"
+keywords: "nips, 2018, montreal, mloss, machine learning, open source, oss, sklearn, tf, tensorflow, shogun, neurips"
 
 google_analytics: 'UA-124192947-1'
 

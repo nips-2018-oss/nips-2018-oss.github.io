@@ -15,9 +15,9 @@ Possible topics include (but not exclusively):
 
 The committee will select several submitted abstracts for demos and short talks. All software presentations are required to include a live demonstration.
 
-Submission format is [NIPS'18 style pdf](https://nips.cc/Conferences/2018/PaperInformation/StyleFiles) (3 pages maximum + references). All submissions must include pointers to project website/community, code (GitHub, etc), where applicable. For software submissions, a link to code is mandatory. Previews of to be presented demos are not mandatory but will increase the acceptance likelihood. The submissions are not required to be anonymous. Please submit your contributions using [OpenReview](https://openreview.net/group?id=NIPS.cc/2018/Workshop/MLOSS).
+Submission format is [NeurIPS'18 style pdf](https://neurips.cc/Conferences/2018/PaperInformation/StyleFiles) (3 pages maximum + references). All submissions must include pointers to project website/community, code (GitHub, etc), where applicable. For software submissions, a link to code is mandatory. Previews of to be presented demos are not mandatory but will increase the acceptance likelihood. The submissions are not required to be anonymous. Please submit your contributions using [OpenReview](https://openreview.net/group?id=NIPS.cc/2018/Workshop/MLOSS).
 
-Please note that there is a separate pool of NIPS tickets for those who present at workshops. For more details see [FAQ](/faq).
+Please note that there is a separate pool of NeurIPS tickets for those who present at workshops. For more details see [FAQ](/faq).
 
 ### Student participant support
 
