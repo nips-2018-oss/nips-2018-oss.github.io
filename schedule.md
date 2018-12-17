@@ -35,7 +35,7 @@ Saturday, December 8th 2018
 | 11:20 AM &ndash; 11:40 PM | Contributed talk [(pdf)](https://www.dropbox.com/s/n2c729619w8k0ev/andrews.pdf?dl=0) | Martin Andrews | Building, growing and sustaining ML communities |
 | 11:40 AM &ndash; 12:00 PM | Contributed talk [(pdf)](https://www.dropbox.com/s/et22sue57alxta1/fonnesbeck.pdf?dl=0) | Christopher Fonnesbeck | PyMC's Big Adventure: Lessons Learned from the Development of Open-source Software for Probabilistic Programming |
 | 12:00 PM &ndash; 2:00 PM | Lunch (on your own)                          |                             |
-| 2:00 &ndash; 2:30 PM    | Invited talk        | James Hensman | [GPFlow](https://github.com/GPflow/GPflow)       |
+| 2:00 &ndash; 2:30 PM    | Invited talk [(pdf)](https://www.dropbox.com/s/zimm71s6ru14wga/hensman.pdf?dl=0) | James Hensman | [GPFlow](https://github.com/GPflow/GPflow)       |
 | 2:30 &ndash; 3:00 PM    | Invited talk [(pdf)](https://www.dropbox.com/s/l07j91s5u53tl15/averick.pdf?dl=0) | Mara Averick | [tidyverse](https://www.tidyverse.org)     |
 | 3:00 &ndash; 3:30 PM    | Afternoon coffee break                       |                             |
 | 3:30 &ndash; 3:50 PM    | Demo                 | Yuri Kuratov | DeepPavlov: An Open Source Library for Conversational AI |
